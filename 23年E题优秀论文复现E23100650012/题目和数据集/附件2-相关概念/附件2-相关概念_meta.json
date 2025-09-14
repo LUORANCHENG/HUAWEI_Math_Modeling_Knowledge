@@ -1,0 +1,259 @@
+{
+  "table_of_contents": [
+    {
+      "title": "\u51fa\u8840\u6027\u8111\u5352\u4e2d\u4e34\u5e8a\u76f8\u5173\u6982\u5ff5",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          61.47682247594261,
+          74.76498579606414
+        ],
+        [
+          352.86354809999466,
+          74.76498579606414
+        ],
+        [
+          352.86354809999466,
+          103.64328271523118
+        ],
+        [
+          61.47682247594261,
+          103.64328271523118
+        ]
+      ]
+    },
+    {
+      "title": "mRS\u8bc4\u5206\u8303\u56f4\u4ece0\u52306,\u5177\u4f53\u5982\u4e0b:",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          61.03899925947189,
+          663.4814409613609
+        ],
+        [
+          216.66831336033434,
+          663.4814409613609
+        ],
+        [
+          216.66831336033434,
+          676.6359676718712
+        ],
+        [
+          61.03899925947189,
+          676.6359676718712
+        ]
+      ]
+    },
+    {
+      "title": "1. \u8840\u80bf,\u6c34\u80bf\u5f71\u50cf\u7279\u5f81",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          77.97060411582966,
+          129.69449665072977
+        ],
+        [
+          202.44601421058178,
+          129.69449665072977
+        ],
+        [
+          202.44601421058178,
+          143.15824771672487
+        ],
+        [
+          77.97060411582966,
+          143.15824771672487
+        ]
+      ]
+    },
+    {
+      "title": "\u2022\u5f62\u72b6\u7279\u5f81:\u5bf9\u76ee\u6807\u533a\u57df\u4e09\u7ef4\u5f62\u72b6\u63cf\u8ff0",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          81.38533234596252,
+          100.45742077752948
+        ],
+        [
+          286.8832965195179,
+          100.45742077752948
+        ],
+        [
+          286.8832965195179,
+          116.12980611622334
+        ],
+        [
+          81.38533234596252,
+          116.12980611622334
+        ]
+      ]
+    },
+    {
+      "title": "\u6ce8: \u4ee5\u4e0a\u7279\u5f81\u5b9a\u4e49\u53ef\u53c2\u8003: <u>http://pyradiomics.readthedocs.io/</u>",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          60.72710512867502,
+          361.1328660994768
+        ],
+        [
+          387.60386853734553,
+          361.1328660994768
+        ],
+        [
+          387.60386853734553,
+          376.3427876085043
+        ],
+        [
+          60.72710512867502,
+          376.3427876085043
+        ]
+      ]
+    },
+    {
+      "title": "\u53c2\u8003\u6587\u732e",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          60.72710512867502,
+          383.94774836301804
+        ],
+        [
+          104.96042861746301,
+          383.94774836301804
+        ],
+        [
+          104.96042861746301,
+          399.56874883174896
+        ],
+        [
+          60.72710512867502,
+          399.56874883174896
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          63
+        ],
+        [
+          "Span",
+          37
+        ],
+        [
+          "ListItem",
+          14
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          57
+        ],
+        [
+          "Span",
+          25
+        ],
+        [
+          "ListItem",
+          20
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          42
+        ],
+        [
+          "Span",
+          22
+        ],
+        [
+          "ListItem",
+          16
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\tmp1rvdbhho"
+}

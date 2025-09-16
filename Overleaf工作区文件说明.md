@@ -1,6 +1,6 @@
 # Overleaf工作区文件说明
 
-![工作区图片](md_img\Overleaf工作区文件说明.png)
+![工作区图片](md_img/Overleaf工作区文件说明.png)
 
 
 ## 文件类型与功能说明表

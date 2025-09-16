@@ -1,5 +1,6 @@
 参考视频
 [【华为杯研究生数学建模必看】零基础两天速成华为杯研究生数学建模国奖保姆级教学](https://www.bilibili.com/video/BV1rN89zCEvC/?spm_id_from=333.1391.0.0&vd_source=1a02178b1644ddc9b579739c3c1616b4)
+
 [【华为杯数学建模研赛赛必看】三天速成华为杯研赛国奖全攻略（建模手/编程手/论文手三天学习计划）！！！！](https://www.bilibili.com/video/BV1wbteeFE2N/?spm_id_from=333.337.top_right_bar_window_history.content.click&vd_source=1a02178b1644ddc9b579739c3c1616b4)
 
 # 备赛计划

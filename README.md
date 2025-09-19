@@ -84,12 +84,12 @@
   第三步：内容写入到"题目背景以及建模思路.md"中。
 
 
-### Step2:数据集格式转换用的提示词(建议使用cursor或者claude)
+### Step2:数据集格式转换用的提示词(建议使用Cursor或者Claude)
 
 - 使用python实现一个将.xlsx文件转换成.csv文件的脚本，内容写入到"xlsx2csv.py"中
 
 
-### Step3:数据预处理用的提示词(建议使用cursor或者claude)
+### Step3:数据预处理用的提示词(建议使用Cursor或者Claude)
 
 #### Step3.1:数据集可视化
 
